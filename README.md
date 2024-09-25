@@ -3,11 +3,12 @@
 ![working mom](https://img.shields.io/badge/I'm-working%20mom-orange)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=contiki9&left_color=gray&right_color=blue)
 
-🌱 I’m currently learning react, nextjs and golang.
+<!--🌱 I’m currently learning react, nextjs and golang.-->
+🌱 I'm a Freelance Engineer.
 
 ## Skill
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,html,css,php,js,vue,python,nuxt,angular,laravel,swift,docker,jenkins,vscode,github,gitlab,xd" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,html,css,php,js,vue,nuxt,python,angular,laravel,swift,go,react,nextjs,mysql,postgresql,docker,jenkins,vscode,github,gitlab,xd" />
 
 and more...
 
